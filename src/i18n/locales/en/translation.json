@@ -75,12 +75,12 @@
     "subtitle": "Recent Work",
     "projects": [
       {
-        "title": "Crypto Currency Dashboard & Financial Visualization",
+        "title": "Admin Dashboard",
         "github": "GitHub",
         "demo": "Live Demo"
       },
       {
-        "title": "Charts templates & infographics in Figma",
+        "title": "Componets Store E-Commers",
         "github": "GitHub",
         "demo": "Live Demo"
       },
@@ -90,17 +90,17 @@
         "demo": "Live Demo"
       },
       {
-        "title": "Maintaining tasks and tracking progress",
+        "title": "Battleship in Python",
         "github": "GitHub",
         "demo": "Live Demo"
       },
       {
-        "title": "Charts templates & infographics in Figma",
+        "title": "JS Pong Game",
         "github": "GitHub",
         "demo": "Live Demo"
       },
       {
-        "title": "Charts templates & infographics in Figma",
+        "title": "Snake Game",
         "github": "GitHub",
         "demo": "Live Demo"
       }

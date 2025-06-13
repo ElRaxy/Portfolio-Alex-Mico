@@ -75,24 +75,34 @@
     "subtitle": "Trabajos Recientes",
     "projects": [
       {
-        "title": "Dashboard de Criptomonedas y Visualización Financiera",
+        "title": "Admin Dashboard",
         "github": "GitHub",
-        "demo": "Demo en Vivo"
+        "demo": "Live Demo"
       },
       {
-        "title": "Plantillas de gráficos e infografías en Figma",
+        "title": "Componets Store E-Commers",
         "github": "GitHub",
-        "demo": "Demo en Vivo"
+        "demo": "Live Demo"
       },
       {
-        "title": "Kit de UI de dashboard en Figma para aplicaciones web de diseño de datos",
+        "title": "Figma dashboard UI kit for data design web apps",
         "github": "GitHub",
-        "demo": "Demo en Vivo"
+        "demo": "Live Demo"
       },
       {
-        "title": "Mantenimiento de tareas y seguimiento de progreso",
+        "title": "Hundir la flota en Python",
         "github": "GitHub",
-        "demo": "Demo en Vivo"
+        "demo": "Live Demo"
+      },
+      {
+        "title": "JS Pong Game",
+        "github": "GitHub",
+        "demo": "Live Demo"
+      },
+      {
+        "title": "Juego de la Serpiente",
+        "github": "GitHub",
+        "demo": "Live Demo"
       },
       {
         "title": "Plantillas de gráficos e infografías en Figma",

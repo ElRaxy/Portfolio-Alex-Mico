@@ -16,15 +16,15 @@ function Portfolio() {
       id: 1,
       image: IMG1,
       title: t('portfolio.projects.0.title'),
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+      github: 'https://github.com/ElRaxy/AdminDashBoard',
+      demo: 'https://admin-dash-board-alex.vercel.app/'
     },
     {
       id: 2,
       image: IMG2,
       title: t('portfolio.projects.1.title'),
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+      github: 'https://github.com/ElRaxy/E-comers',
+      demo: 'https://componetsstore.vercel.app/'
     },
     {
       id: 3,
@@ -37,22 +37,22 @@ function Portfolio() {
       id: 4,
       image: IMG4,
       title: t('portfolio.projects.3.title'),
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress'
+      github: 'http://github.com/ElRaxy/Battleship_Python',
+      demo: 'https://github.com/ElRaxy/Battleship_Python'
     },
     {
       id: 5,
       image: IMG5,
       title: t('portfolio.projects.4.title'),
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+      github: 'https://github.com/ElRaxy/Pong_JS_Alex_Mico',
+      demo: 'https://ponggamealexm.vercel.app/'
     },
     {
       id: 6,
       image: IMG6,
       title: t('portfolio.projects.5.title'),
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+      github: 'https://github.com/ElRaxy/SnakeGame-Alex',
+      demo: 'https://snakegame-snowy-two.vercel.app/'
     }
   ]
 
