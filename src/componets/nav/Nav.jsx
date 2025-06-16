@@ -21,6 +21,9 @@ const Nav = () => {
       <Link to="portfolio" spy={true} smooth={true} offset={-70} duration={500}>
         <FaFolderOpen />
       </Link>
+      {/* <Link to="testimonials" spy={true} smooth={true} offset={-70} duration={500}>
+        <FaQuoteLeft />
+      </Link> */}
       <Link to="contact" spy={true} smooth={true} offset={-70} duration={500}>
         <FaEnvelope />
       </Link>

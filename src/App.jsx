@@ -6,7 +6,7 @@ import About from './componets/about/About'
 import Experience from './componets/experience/Experience'
 import Services from './componets/services/Services'
 import Portfolio from './componets/portfolio/Portfolio'
-import Testimonials from './componets/testimonials/Testimonials'
+// import Testimonials from './componets/testimonials/Testimonials'
 import Contact from './componets/contact/Contact'
 import Footer from './componets/footer/Footer'
 import ThemeToggle from './componets/theme/ThemeToggle'
@@ -23,7 +23,7 @@ function App() {
         <Experience />
         <Services />
         <Portfolio />
-        <Testimonials />
+        {/* <Testimonials /> */}
         <Contact />
         <Footer />
         <ThemeToggle />

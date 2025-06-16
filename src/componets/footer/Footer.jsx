@@ -26,7 +26,7 @@ const Footer = () => {
         <li><Link to="experience" spy={true} smooth={true} offset={-80} duration={500}>{t('nav.experience')}</Link></li>
         <li><Link to="services" spy={true} smooth={true} offset={-80} duration={500}>{t('nav.services')}</Link></li>
         <li><Link to="portfolio" spy={true} smooth={true} offset={-80} duration={500}>{t('nav.portfolio')}</Link></li>
-        <li><Link to="testimonials" spy={true} smooth={true} offset={-80} duration={500}>{t('nav.testimonials')}</Link></li>
+        {/* <li><Link to="testimonials" spy={true} smooth={true} offset={-80} duration={500}>{t('nav.testimonials')}</Link></li> */}
         <li><Link to="contact" spy={true} smooth={true} offset={-80} duration={500}>{t('nav.contact')}</Link></li>
       </ul>
 
